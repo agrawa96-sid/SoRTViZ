@@ -129,4 +129,3 @@ function arraysAreEqual(arrayOne, arrayTwo) {
   }
   return true;
 }
-© 2020 GitHub, Inc.
